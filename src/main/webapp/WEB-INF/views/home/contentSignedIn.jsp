@@ -7,7 +7,7 @@
 		We make it fun to be an application developer.
 	</p>
 	<p>
-		We help you connect with fellow developers and take advantage of everything the Spring community has to offer.	
+		We help you connect with fellow developers and take advantage of everything the Spring community has to offer. Change worked.	
 	</p>
 	<p>
 		If this is your first time here, start by <a href="<c:url value="/settings"/>">connecting your Greenhouse account</a> to your social networks, then grab the mobile client.
