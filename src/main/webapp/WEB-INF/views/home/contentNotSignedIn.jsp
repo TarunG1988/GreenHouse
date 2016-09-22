@@ -7,6 +7,6 @@
 		We make it fun to be an application developer.
 	</p>
 	<p>
-		We help you connect with fellow developers and take advantage of everything the Spring community has to offer.	Changes worked.
+		We help you connect with fellow developers and take advantage of everything the Spring community has to offer.	Automated Deploy.
 	</p>
 </div>
